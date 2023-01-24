@@ -1,0 +1,26 @@
+
+.background{
+    background-color: black;
+    color:bisque;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.orange{
+    color:blanchedalmond;
+    background-color: orangered;
+    text-align: center;
+}
+
+a{
+    color:powderblue;
+    text-decoration: none;
+    
+
+}
+
+ul{
+    text-align:left;
+    list-style:decimal; 
+}
+/* hellaur */
