@@ -1,14 +1,14 @@
 
 .background{
-    background-color: black;
-    color:bisque;
+    background-color: peachpuff;
+    color: palevioletred;
     text-align: center;
     font-family:Arial, Helvetica, sans-serif;
 }
 
 .orange{
     color:blanchedalmond;
-    background-color: orangered;
+    background-color: rgb(255, 153, 0);
     text-align: center;
 }
 
