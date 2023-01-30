@@ -1,21 +1,20 @@
 
 .background{
-    background-color: peachpuff;
-    color: palevioletred;
+    background-color: rgb(250, 243, 227);
+    color: rgb(123, 45, 38);
     text-align: center;
     font-family:Arial, Helvetica, sans-serif;
 }
 
 .orange{
-    color:blanchedalmond;
-    background-color: brown;
+    color:rgb(250, 243, 227);
+    background-color:rgb(252,191,183);
     text-align: center;
 }
 
 a{
-    color: brown;
+    color:rgb(44,61,85);
     text-decoration: none;
-    
 
 }
 
